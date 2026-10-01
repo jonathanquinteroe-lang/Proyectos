@@ -1,0 +1,13 @@
+# Java
+*.class
+
+# TypeScript
+*.js
+*.js.map
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
